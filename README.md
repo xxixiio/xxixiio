@@ -1,8 +1,8 @@
-## Hey! :wave:
+## hey! :wave:
 
 - 🌱 js, rust
-- [portfolio](https://www.sebjf.dev)
-- `hi@sebjf.dev` / `contact@sebjf.dev`
+- ~ [portfolio](https://www.sebjf.dev) 🎨
+- 🖼 `hi@sebjf.dev` / `contact@sebjf.dev`
 
 <details>
   
