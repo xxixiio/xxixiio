@@ -1,6 +1,6 @@
 ## hey! :wave:
 
-im a frontend developer!
+im a frontend dev
 
 - 🌱 js, rust
 - ~ [portfolio](https://www.sebjf.dev) 🎨
