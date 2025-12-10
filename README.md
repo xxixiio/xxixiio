@@ -2,7 +2,7 @@
 
 im a frontend dev
 
-- 🌱 js, rust
+- 🌱 js
 - ~ [portfolio](https://www.sebjf.dev) 🎨
 - 🖼 `hi@sebjf.dev` / `contact@sebjf.dev`
 
