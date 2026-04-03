@@ -4,7 +4,7 @@ im a frontend dev
 
 - 🌱 js
 - ~ [portfolio](https://www.sebastianjf.com) 🎨
-- 🖼 `hi@sebjf.dev` / `contact@sebjf.dev`
+- 🖼 `hi@sebastianjf.com` / `contact@sebastianjf.com`
 
 <details>
   
