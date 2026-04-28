@@ -1,6 +1,6 @@
 ## hey! :wave:
 
-im a frontend dev
+im a web dev
 
 - 🌱 js
 - ~ [portfolio](https://www.sebastianjf.com) 🎨
